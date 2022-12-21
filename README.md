@@ -1,5 +1,11 @@
 # Networth
-A Financial asset edutainment game that helps players invest confidently
+
+
+An edutainment game using Roblox VR on a few popular market trends to financially educate the masses.
+Providing hands on experience in the market for a deeper understanding in the subject. We aim to empower our community with the knowledge to make everyone financially independent and literate.
+
+
+
 ![d824c816-08d9-4e2f-8a14-a331e25ce904](https://user-images.githubusercontent.com/76782291/204113812-17707ad7-a0cb-402e-880a-eca792f9b949.jpg)
 ![cd664051-7e4d-4355-bda1-d18bf0984e6f](https://user-images.githubusercontent.com/76782291/204113814-c8605d82-269c-4806-a742-9a2bcda07e3b.jpg)
 ![53c528d0-7b3a-4d4f-b500-aa6f01fc932b](https://user-images.githubusercontent.com/76782291/204113817-29a9db8f-ca6c-492d-b7b3-9c0aace4a4c8.jpg)
